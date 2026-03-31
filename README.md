@@ -5,6 +5,11 @@ Hi, I’m **Gurnoor Kaur Pawan**, a Cloud engineering enthusiast with practical 
 managing cloud infrastructure including Compute Engine virtual machines, VPC networking, Cloud Storage, and Cloud Run deployments.
 Experienced in monitoring infrastructure, analyzing logs, and troubleshooting systems to maintain reliable and secure cloud environments.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -18,24 +23,70 @@ Experienced in monitoring infrastructure, analyzing logs, and troubleshooting sy
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gurnoor2910&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurnoor2910&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurnoor2910&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gurnoor2910&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
-- Google Cloud Platform (Compute Engine, Cloud Storage, Cloud Run)  
-- VPC Networking, IAM, Firewall Rules  
-- Cloud Monitoring & Logging  
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-GCP-blue?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Compute-Engine-blue?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Cloud-Storage-blue?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Cloud-Run-blue?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/VPC-Networking-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IAM-Security-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monitoring-Logging-blue?style=for-the-badge" />
+</p>
+
+---
 
 ### 💻 Programming & Development
-- Python (Flask)  
-- HTML, CSS, JavaScript  
+<p>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+---
 
 ### ⚙️ Systems & Tools
-- Linux, Windows  
-- Git & GitHub  
-- Nginx, Gunicorn  
+<p>
+  <img src="https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx" />
+  <img src="https://img.shields.io/badge/Gunicorn-grey?style=for-the-badge" />
+</p>
+
+---
 
 ### 🗄️ Databases
-- MySQL, Cloud SQL  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Cloud%20SQL-blue?style=for-the-badge&logo=googlecloud" />
+</p>
 
 ---
 
