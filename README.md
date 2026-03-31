@@ -1,9 +1,21 @@
-# 🚀 Gurnoor Kaur Pawan – Junior Cloud Engineer | Cloud Support Engineer Portfolio
+<!-- 🌌 FUTURISTIC ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Gurnoor%20Kaur%20Pawan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%7C%20Driven%20by%20Curiosity,%20Defined%20by%20Purpose%20%7C&descAlignY=60&descSize=18"/>
+</p>
+
+<!-- 🧠 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer;GCP+%7C+Linux+%7C+Flask;Building+Scalable+Cloud+Solutions"/>
+</p>
+
+---
 
 ## 🌟 About Me
 Hi, I’m **Gurnoor Kaur Pawan**, a Cloud engineering enthusiast with practical experience in Linux administration and Google Cloud Platform (GCP). Skilled in provisioning and
 managing cloud infrastructure including Compute Engine virtual machines, VPC networking, Cloud Storage, and Cloud Run deployments.
 Experienced in monitoring infrastructure, analyzing logs, and troubleshooting systems to maintain reliable and secure cloud environments.
+
+---
 
 <!-- Snake Game Repo View -->
 
@@ -20,27 +32,6 @@ Experienced in monitoring infrastructure, analyzing logs, and troubleshooting sy
 - 🔐 Implement secure networking (VPC, IAM, SSL)  
 - 📊 Monitor systems using logging and observability tools  
 - 🚀 Deploy scalable applications using Compute Engine & Cloud Run  
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gurnoor2910&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurnoor2910&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurnoor2910&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gurnoor2910&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
@@ -124,21 +115,6 @@ A responsive portfolio showcasing my technical skills and projects.
 - Worked extensively with GCP services  
 - Deployed real-world applications and cloud architectures  
 - Gained practical exposure to Linux networking and security  
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-Jagannath International Management School (GGSIPU)  
-*2023 – 2026*
-
----
-
-## 🏆 Certifications
-- AWS – Getting Started with AWS  
-- IBM SkillsBuild – IT Fundamentals  
-- National Career Readiness Certificate  
 
 ---
 
