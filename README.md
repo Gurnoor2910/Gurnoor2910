@@ -25,19 +25,19 @@ Experienced in monitoring infrastructure, analyzing logs, and troubleshooting sy
 
 ---
 
-## 💼 What I Do
-- ☁️ Deploy and manage cloud infrastructure on GCP  
-- 🖥️ Configure and manage Linux-based systems  
-- 🌐 Build full-stack web applications using Flask  
-- 🔐 Implement secure networking (VPC, IAM, SSL)  
-- 📊 Monitor systems using logging and observability tools  
-- 🚀 Deploy scalable applications using Compute Engine & Cloud Run  
+##  What I Do?
+-  Deploy and manage cloud infrastructure on GCP  
+-  Configure and manage Linux-based systems  
+-  Build full-stack web applications using Flask  
+-  Implement secure networking (VPC, IAM, SSL)  
+-  Monitor systems using logging and observability tools  
+-  Deploy scalable applications using Compute Engine & Cloud Run  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-GCP-blue?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/Compute-Engine-blue?style=for-the-badge&logo=googlecloud" />
@@ -50,7 +50,7 @@ Experienced in monitoring infrastructure, analyzing logs, and troubleshooting sy
 
 ---
 
-### 💻 Programming & Development
+###  Programming & Development
 <p>
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
@@ -61,7 +61,7 @@ Experienced in monitoring infrastructure, analyzing logs, and troubleshooting sy
 
 ---
 
-### ⚙️ Systems & Tools
+###  Systems & Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" />
@@ -73,7 +73,7 @@ Experienced in monitoring infrastructure, analyzing logs, and troubleshooting sy
 
 ---
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Cloud%20SQL-blue?style=for-the-badge&logo=googlecloud" />
@@ -118,7 +118,7 @@ A responsive portfolio showcasing my technical skills and projects.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - 📧 Email: gurnoorpawan2910@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/gurnoor-kaur-pawan-3b6976212  
 - 💻 GitHub: https://github.com/Gurnoor2910
