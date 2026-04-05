@@ -5,7 +5,7 @@
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer;GCP+%7C+Linux+%7C+Flask;Building+Scalable+Cloud+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=D4AF37&center=true&vCenter=true&width=600&lines=Cloud+Engineer;GCP+%7C+Linux+%7C+Flask;Building+Scalable+Cloud+Solutions"/>
 </p>
 
 ---
