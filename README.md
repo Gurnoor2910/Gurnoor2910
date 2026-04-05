@@ -118,6 +118,11 @@ A responsive portfolio showcasing my technical skills and projects.
 
 ---
 
+### ✍️ Inspirational Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cream)
+
+---
+
 ##  Connect With Me
 - 📧 Email: gurnoorpawan2910@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/gurnoor-kaur-pawan-3b6976212  
